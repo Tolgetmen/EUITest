@@ -11,7 +11,7 @@
 <img src="doc/1.png" width="250px"/>
 <img src="doc/2.png" width="250px"/>
 <img src="doc/3.png" width="250px"/>
-<img src="doc/3.jig" width="250px"/>
+<img src="doc/3.gif" width="250px"/>
 
 ##特性
 * 支持最新版的[Egret Wing](http://developer.egret.com/cn/)进行开发
