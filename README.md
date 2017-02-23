@@ -2,7 +2,7 @@
 ## 存档状态
 正在开发。
 
-##cocos-ui-libgdx
+##egret-libgdx
 * 在libGDX中使用Egret编辑器
 * 参考[CHGameFrameJava](http://git.oschina.net/oahcfly/CHGameFrame)对Egret的解析。
 
