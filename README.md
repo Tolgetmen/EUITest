@@ -7,6 +7,7 @@
 * 参考[CHGameFrameJava](http://git.oschina.net/oahcfly/CHGameFrame)对Egret的解析。
 
 ## 展示
+* 在线浏览[http://sedn.egret.com/examples/DemoEUI_2/release/index.html](http://sedn.egret.com/examples/DemoEUI_2/release/index.html)
 
 <img src="doc/1.png" width="250px"/>
 <img src="doc/2.png" width="250px"/>
